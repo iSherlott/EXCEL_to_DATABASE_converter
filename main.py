@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import sqlite3
 
-company = 'sanofi'
+company = 'autoCreate'
 
 file_name = './assets'
 entries = os.listdir(file_name)
